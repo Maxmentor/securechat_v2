@@ -1,4 +1,4 @@
-<img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/09a54569-6e9b-45d6-8bfa-457aa6c7e28a" />🔐 SecureChat V2 – Temporary Room-Based PHP Chat Application
+🔐 SecureChat V2 – Temporary Room-Based PHP Chat Application
 
 SecureChat is a lightweight and privacy-focused PHP chat application where users can start chatting instantly by entering a Username and a Room ID. No login or registration is required.
 
@@ -8,11 +8,11 @@ If any user refreshes the page, the entire chat history is automatically deleted
 This makes SecureChat perfect for temporary and private conversations.
 
 Screenshots
-<img src="https://i.ibb.co/XZ4bR2KS/photo-1-2025-12-25-20-51-55.jpg" width="50%" />
+<img src="https://i.ibb.co/XZ4bR2KS/photo-1-2025-12-25-20-51-55.jpg" style="width:100px;height:200px;"/>
 <br>
-<img src="https://i.ibb.co/Wq9LFjd/photo-2-2025-12-25-20-51-55.jpg" width="50%"/>
+<img src="https://i.ibb.co/Wq9LFjd/photo-2-2025-12-25-20-51-55.jpg" style="width:100px;height:200px;"/>
 <br>
-<img src="https://i.ibb.co/3mjS4HGx/photo-3-2025-12-25-20-51-55.jpg" width="50%"/>
+<img src="https://i.ibb.co/3mjS4HGx/photo-3-2025-12-25-20-51-55.jpg" style="width:100px;height:200px;"/>
 <br>
 🚀 Features
 
