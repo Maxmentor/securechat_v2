@@ -7,14 +7,12 @@ If any user refreshes the page, the entire chat history is automatically deleted
 
 This makes SecureChat perfect for temporary and private conversations.
 
-
-<h3>Screenshot:</h3>
-
-<img src="https://i.ibb.co/XZ4bR2KS/photo-1-2025-12-25-20-51-55.jpg" />
+Screenshots
+<img src="https://i.ibb.co/XZ4bR2KS/photo-1-2025-12-25-20-51-55.jpg" width="50%" />
 <br>
-<img src="https://i.ibb.co/Wq9LFjd/photo-2-2025-12-25-20-51-55.jpg" />
+<img src="https://i.ibb.co/Wq9LFjd/photo-2-2025-12-25-20-51-55.jpg" width="50%"/>
 <br>
-<img src="https://i.ibb.co/3mjS4HGx/photo-3-2025-12-25-20-51-55.jpg" />
+<img src="https://i.ibb.co/3mjS4HGx/photo-3-2025-12-25-20-51-55.jpg" width="50%"/>
 <br>
 🚀 Features
 
